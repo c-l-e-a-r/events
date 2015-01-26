@@ -1,19 +1,19 @@
 {
-    DATE: "SATURDAY JANUARY 31ST",
-    LOCATION: "RUBICON",
-    SETS: [
+    "DATE": "SATURDAY JANUARY 31ST",
+    "LOCATION": "RUBICON",
+    "SETS": [
       {
-        NAME: "HIEROGLYPHIC BEING",
-        TYPE: "LIVE"
+        "NAME": "HIEROGLYPHIC BEING",
+        "TYPE": "LIVE"
       },{
-        NAME: "C O I N",
-        TYPE: "LIVE"
+        "NAME": "C O I N",
+        "TYPE": "LIVE"
       },{
-        NAME: "SPECIAL GUEST DJ",
-        TYPE: "VINYL"
+        "NAME": "SPECIAL GUEST DJ",
+        "TYPE": "VINYL"
       },{
-        NAME: "MTZ + JOSH FOX",
-        TYPE: "VINYL"
+        "NAME": "MTZ + JOSH FOX",
+        "TYPE": "VINYL"
       }
     ]
 }
